@@ -1,0 +1,3 @@
+C:\Users\DiXer\source\repos\Kalorii\Kalorii\Debug\Kalorii.vcxproj.AssemblyReference.cache
+C:\Users\DiXer\source\repos\Kalorii\Kalorii\Debug\Kalorii.MyForm.resources
+C:\Users\DiXer\source\repos\Kalorii\Kalorii\Debug\Kalorii.vcxproj.GenerateResource.cache
